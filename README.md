@@ -10,12 +10,13 @@ The Setup
 - RabbitMQ - Setup on the Ubuntu at (srv.qeba.my)
 
 
+
 RabbitMQ Management:
 http://srv.qeba.my:15672/
 
- User: test
+ * User: test
  
- Pass: test
+ * Pass: test
 
 -----------------------------------------------------------
  Linux Application:
