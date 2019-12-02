@@ -1,7 +1,7 @@
 # RunCloud-s-Assessment
 
 
-The Setup:-
+- The Setup -
 
 Linux Host: Setup online using Ubuntu at (srv.qeba.my) - Running go complied script and using cronjob to publish message to RabbitMQ.
 
