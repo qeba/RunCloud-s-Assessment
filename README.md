@@ -2,15 +2,20 @@
 
 
 The Setup:-
+
 Linux Host: Setup online using Ubuntu at (srv.qeba.my) - Running go complied script and using cronjob to publish message to RabbitMQ.
+
 Windows Host: PHP Application (Subsribe the message from the linux server and output the data).
 
 RabbitMQ - Setup on the Ubuntu at (srv.qeba.my)
 
+
 RabbitMQ Management:
 http://srv.qeba.my:15672/
-User: test
-Pass: test
+
+ User: test
+ 
+ Pass: test
 
 -----------------------------------------------------------
  Linux Application:
