@@ -34,6 +34,8 @@ http://srv.qeba.my:15672/
 PHP Application:
 -----------------------------------------------------------
 index.php - Main pages where show the output of the data
+
+
 function.php - The function to get the message from queue and calculation used at main pages
 
 -----------------------------------------------------------
