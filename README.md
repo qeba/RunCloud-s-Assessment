@@ -21,13 +21,13 @@ http://srv.qeba.my:15672/
 -----------------------------------------------------------
  Linux Application:
 -----------------------------------------------------------
-*run.sh - Used by crontab to running the golang script.
+* run.sh - Used by crontab to running the golang script.
 
-*"work/src/avail" – Get the available disk space in the Linux
+* "work/src/avail" – Get the available disk space in the Linux
 
-*"work/src/ttl" – Get total disk space in the Linux
+* "work/src/ttl" – Get total disk space in the Linux
 
-*"work/src/used" – Get the used space in the Linux
+* "work/src/used" – Get the used space in the Linux
 
 
 -----------------------------------------------------------
